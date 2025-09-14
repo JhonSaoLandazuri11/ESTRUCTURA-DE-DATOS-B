@@ -1,0 +1,15 @@
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\bin\Debug\net9.0\tareasemana10.exe
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\bin\Debug\net9.0\tareasemana10.deps.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\bin\Debug\net9.0\tareasemana10.runtimeconfig.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\bin\Debug\net9.0\tareasemana10.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\bin\Debug\net9.0\tareasemana10.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.AssemblyInfoInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.AssemblyInfo.cs
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.csproj.CoreCompileInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.sourcelink.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\refint\tareasemana10.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\tareasemana10.genruntimeconfig.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\Tareasemana10\obj\Debug\net9.0\ref\tareasemana10.dll

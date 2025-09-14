@@ -1,0 +1,15 @@
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\bin\Debug\net9.0\ParentesisisBalanceados.exe
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\bin\Debug\net9.0\ParentesisisBalanceados.deps.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\bin\Debug\net9.0\ParentesisisBalanceados.runtimeconfig.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\bin\Debug\net9.0\ParentesisisBalanceados.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\bin\Debug\net9.0\ParentesisisBalanceados.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.AssemblyInfoInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.AssemblyInfo.cs
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.csproj.CoreCompileInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.sourcelink.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\refint\ParentesisisBalanceados.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ParentesisisBalanceados.genruntimeconfig.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Parentesisis Balanceados\obj\Debug\net9.0\ref\ParentesisisBalanceados.dll

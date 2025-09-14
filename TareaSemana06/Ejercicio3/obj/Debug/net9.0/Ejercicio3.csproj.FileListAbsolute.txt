@@ -1,0 +1,15 @@
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\bin\Debug\net9.0\Ejercicio3.exe
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\bin\Debug\net9.0\Ejercicio3.deps.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\bin\Debug\net9.0\Ejercicio3.runtimeconfig.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\bin\Debug\net9.0\Ejercicio3.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\bin\Debug\net9.0\Ejercicio3.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfoInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.AssemblyInfo.cs
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.csproj.CoreCompileInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.sourcelink.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\refint\Ejercicio3.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\Ejercicio3.genruntimeconfig.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana06\Ejercicio3\obj\Debug\net9.0\ref\Ejercicio3.dll

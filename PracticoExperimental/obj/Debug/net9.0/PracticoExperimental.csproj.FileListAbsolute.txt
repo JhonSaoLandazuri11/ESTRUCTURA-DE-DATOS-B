@@ -1,0 +1,15 @@
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\bin\Debug\net9.0\PracticoExperimental.exe
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\bin\Debug\net9.0\PracticoExperimental.deps.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\bin\Debug\net9.0\PracticoExperimental.runtimeconfig.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\bin\Debug\net9.0\PracticoExperimental.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\bin\Debug\net9.0\PracticoExperimental.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.AssemblyInfoInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.AssemblyInfo.cs
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.csproj.CoreCompileInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\refint\PracticoExperimental.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.genruntimeconfig.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\ref\PracticoExperimental.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\PracticoExperimental\obj\Debug\net9.0\PracticoExperimental.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\bin\Debug\net9.0\TorresdeHanoi.exe
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\bin\Debug\net9.0\TorresdeHanoi.deps.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\bin\Debug\net9.0\TorresdeHanoi.runtimeconfig.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\bin\Debug\net9.0\TorresdeHanoi.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\bin\Debug\net9.0\TorresdeHanoi.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.AssemblyInfoInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.AssemblyInfo.cs
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.csproj.CoreCompileInputs.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.sourcelink.json
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\refint\TorresdeHanoi.dll
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.pdb
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\TorresdeHanoi.genruntimeconfig.cache
+C:\Users\dellv\OneDrive\Documentos\UEA JHON LANDAZURII\TERCER SEMESTRE\ESTRUCTURA DE DATOSO\ESTRUCTURA DE DATOS\TareaSemana07\Torres de Hanoi\obj\Debug\net9.0\ref\TorresdeHanoi.dll
